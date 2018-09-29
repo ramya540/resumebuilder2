@@ -1,0 +1,48 @@
+{
+	"data":[
+		{
+			"id":1,
+			"name":"RAMYA",
+			"email":"ramyaramy401037@gmail.com",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"svit college",
+					"data":["70%","2016-20"]
+				},
+				{
+					"degree":"Intermediate",
+					"institute":"chaitanya college",
+					"data":["92%","2014-16"]
+				},
+				{
+					"degree":"SSC",
+					"institute":"Bhashyam school",
+					"data":["80%","2013-14"]
+				}
+			]
+		},
+		{
+			"id":2,
+			"name":"RAMYA",
+			"email":"ramyaramy401037@gmail.com",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"svit college",
+					"data":["70%","2016-20"]
+				},
+				{
+					"degree":"Intermediate",
+					"institute":"Chaitanya college",
+					"data":["92%","2014-16"]
+				},
+				{
+					"degree":"SSC",
+					"institute":"Bhashyam school",
+					"data":["70%","2013-14"]
+				}
+			]
+		}
+	]
+}
